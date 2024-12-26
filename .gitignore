@@ -1,0 +1,9 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# IDE Settings
+.idea/
